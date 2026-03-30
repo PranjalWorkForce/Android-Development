@@ -3,7 +3,7 @@ I am going to start Android Development journey from the beginning: Intro to And
 
 Here the details about the toppic I am going to discuss in the notes: 
 
-Introduction & Environment Setup
+**Introduction & Environment Setup**
 Android History
 Android Versions/Flavors
 What Is IDE
@@ -21,7 +21,7 @@ Execute Project On Android Screen (ADB)
 Debug Android Apps (Logcat, Toast, Breakpoints, Error Resolving)
 What Is XML
 
-Java Basics & OOP
+**Java Basics & OOP**
 Java Components | Introduction
 Set Up Java In Command Prompt
 Make First Java Class In Notepad (Hello World)
@@ -39,7 +39,7 @@ Constructors
 Interface & Implements
 This, Static & Final Keyword
 
-Control Flow & Core Programming
+**Control Flow & Core Programming**
 Conditional Statements
 If, If Else & If-Else
 Loops
@@ -47,17 +47,17 @@ For & For Each Loop
 While & Do While
 String Operations
 
-Android UI & Design
+**Android UI & Design**
 Design In Android Apps (Layouts - XML)
 Design In Android Apps (View)
 Design In Android Apps Using Drag And Drop
 
-Android Core Concepts
+**Android Core Concepts**
 Android Architecture
 Android Components
 Activity Lifecycle
 
-Projects & Features
+**Projects & Features**
 First Android App (BMI)
 Make Tic-Tac-Toe
 Intent Passing
@@ -66,7 +66,7 @@ Make Splash Screen
 Android Animations
 Custom Animation (Lottie)
 
-UI Components
+**UI Components**
 ListView, Spinner & AutoCompleteTextView
 Styles And Themes
 Make App Universal (Screen Compatibility)
@@ -77,19 +77,19 @@ Animating RecyclerView Items
 Create Your Own Toolbar
 Create Your Own Drawable
 
-User Interaction & Feedback
+**User Interaction & Feedback**
 Toast
 Custom Toast
 Logcat
 Alert Dialogs
 Custom Dialogs
 
-Notifications & Communication
+**Notifications & Communication**
 Status Bar Notifications
 Customizing Notifications
 Making Calls, Dialing, Sending Emails & Sharing App Link
 
-Fragments & Navigation
+**Fragments & Navigation**
 Introduction To Fragments
 Tab Layout
 Bottom Navigation View
