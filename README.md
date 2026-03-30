@@ -7,12 +7,18 @@ Here the details about the toppic I am going to discuss in the notes:
 Android History,
 Android Versions/Flavors,
 What Is IDE,
+
+**How to set-up Android Studio in your system**
 Set Up Android Studio On Windows,
 Set Up Android Studio On macOS,
 Set Up Android Studio On Linux,
+
+**Programming Languages**
 Frontend & Backend Languages (Java/Kotlin, XML),
 Running App Process (ADB & AVD),
 The Extension .APK,
+
+**Welcome to Android Studio IDE virtual device**
 Create First Android Studio Project,
 What Is Android Studio,
 Create Android Virtual Device,
