@@ -1,2 +1,4 @@
 # Android-Development
 I am going to start Android Development journey from the beginning: Intro to Android Development, TO deploying the app on playstore.  If you want to get engage with me than welcome.  I will be glad to share my notes.
+
+Here the details about the toppic I am going to discuss in the notes: 
