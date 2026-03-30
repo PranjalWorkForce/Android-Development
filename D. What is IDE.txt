@@ -1,0 +1,17 @@
+	`		What is IDE?
+IDE : Integrated Development Environment
+like vanity van: all requirement facility in one place: no need to go outside to bring somethings extra.
+
+for JAVA:Eclipse, netveans
+for C, C++ : Vscode
+for Android: Android Studio
+
+IDE enables programmmers to consolidate the different aspects of writing a computer program.
+IDE increase Efficiency - faster coding with less efforts
+
+MAIN FEATURE OF IDE
+: editing source code
+: systax Highlighting
+: Autocomplete (Suggestions)
+: Building Executable
+: Debugging(Manual Testing)

@@ -1,0 +1,98 @@
+		ANDROID VERSIONS	
+What is version?
+Android version and description
+
+----------------------------------------------------------------------------------------------
+
+>The 1st commercial version, Android 1.0 was, released on September 23, 2008.
+
+> Android code names are confectionery(Sweets 
+
+Android Versions: Sweets Based (Alphabetical)
+Cupcake
+Donut
+Eclair
+Froyo
+Gingerbread
+Honeycomb
+Incream Sandwich 
+Jelly Bean
+Kitkat
+Lollipop
+Marshmalow
+Nougat
+Oreo
+pie
+#Where is A, B -> 2 software were made for Digital camera by andy so as resppect it was made.
+
+------------------------------------------------------------------------------------------
+
+Cupcake(1.5):
+It include all the basic Google programs(search, mail, contact, calender etc)along with synchronizaton.
+Supports for widget, such as search box into the app on the home screen, virtual keyboard.
+
+Donot(1.6): sep 15, 2009
+Search expanded to include bookmarks and history.
+More camera integration and feature.
+
+
+Eclair(2.0-2.1): April 27, 2009
+more camera feature like zoom, flash and white balance.
+SMS and MMS and HTTP protocol
+
+Froyo(2.2-2.2.3): May 20, 2010
+Support for bluetooth hands free
+push notification
+Wi-fi hotspot functionality
+and greater screen resolution
+
+
+Gingerbread(2.3-2.3.7): December 6, 2010
+Enhance (copy/paste)
+front-camera
+AAC audio
+NFC Near feild communication
+
+
+Honeycomb(3.0-3.2.6): Feb 22, 2011
+Intro on the Motorola Xoom
+Tablet-version that look for high screen resolution
+
+
+Icecream sandwich(4.0- 4.0.4): 
+Into on samsung's galaxy nexux, Ice crean sandwich combined gingerbread and honeycomd
+NFC data transfer
+
+Jeely been(4.1-4.3.1)
+voice recognition as counter of apple's siri
+predictive text and swaping gestures.
+
+Kitkat(4.4-4.4.4): Oct 31, 2013
+Ok google
+
+Lolipop(5.0-5.1.1):
+Material Design
+Separeting Personal and business apps.
+
+Marshmallow(6.0-6.0.1):
+Android Runtime Permission included 
+Fingerprint Support
+Automatic data Backup to the google cloud
+The google nopw voice search could be accessed from the lock screen.
+
+Nogat(7.0-7.1.2):
+Emergency Info displayed on the lock screen.
+The setting menu showed more information without going to second level.
+
+Oreo(8.0-8.1):
+improved battery life and performance by limiting what apps can do in the backround
+Users have more control over notifications.
+
+Pie(9.0):
+improves battery life, change brightness, how to use apps. RATE US:
+
+--------------------------------------------------------------------------------------
+
+Recent Added Versions: 
+Android 10
+Android 11: Sep 8, 2020

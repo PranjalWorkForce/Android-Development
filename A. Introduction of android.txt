@@ -1,0 +1,38 @@
+			Android Introduction
+> What is android?
+> What is operating system?
+> What is Linux?
+> What is open source?
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+			Some Terminologies
+# what is Android?
+-> Android is an open source and Linux-based operating system.
+
+-> Developed by the Open Handset Alliance, led by google, and other companies.
+
+--> Google has further developed Android TV for television, Android Auto for cars, and wear OS for wrist watches.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+   			What is open souce, linux based and operating softwere?
+# What is operating Softwere?
+		USER --> APPS --> OS --> HARDWARE
+1. An OS is a software program that enable the hardware to communicate and operate with the software.
+2. OS is interface between hardware and software
+3. OS provides a software platform on top of which other programs, application programs.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#What is L‌inux?
+1. Linux is a family of free and open-source software OS built around Linux kernel.
+
+2. The development of is one of the most prominent example of free and open source software collaboration.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#What is open source?
+ open-source - for all  (no license)
+-> The source code of a computer program is made available free of charge to the general public.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
