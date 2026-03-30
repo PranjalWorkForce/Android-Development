@@ -1,0 +1,17 @@
+Android was founded in 2003 by Andy Rubin, Rich Miner, Nick Sears, and Chris White to develop a smart, location-aware operating system for cameras, later pivoting to smartphones. Google acquired Android Inc. in 2005, and in 2008, released the first Android phone, the HTC Dream. Built on the Linux kernel, Android's open-source nature fueled rapid growth, becoming the world's most widely used mobile OS.
+
+Key Moments in Android History:
+
+    2003–2005 (The Beginning): Android Inc. is founded and subsequently acquired by Google in 2005.
+    2007 (The Alliance): Google announces the Open Handset Alliance (OHA), which includes HTC, Samsung, Sprint, and Qualcomm, to develop a free, open-source platform.
+    2008 (First Device): The HTC Dream (or T-Mobile G1) is released as the first commercial Android phone, featuring a physical keyboard and a trackball.
+    2009 (Dessert Names): The "dessert" naming convention starts with Android 1.5 Cupcake (screen keyboard) followed by 1.6 Donut, 2.0 Eclair (Google Maps navigation), and 2.2 Froyo (Wi-Fi hotspot).
+    2011–2012 (Tablets & Design): Android 3.0 Honeycomb is released exclusively for tablets, introducing the "Action Bar" and removing the need for physical buttons. Android 4.0 Ice Cream Sandwich later merged these features for all device types.
+    2014–2017 (Refining and Polishing): Android 5.0 Lollipop introduces "Material Design," a major design overhaul. Later versions focus on security (Android 6.0 Marshmallow) and functionality (Android 8.0 Oreo).
+    2019–Present (Modern Era): Android 10 breaks the alphabetical dessert naming convention, introducing system-wide dark mode. Android 12 introduced "Material You," a, personalized design language, and Android 13/14 focused on privacy and customization. 
+
+Key Historical Features:
+
+    Open Source: Unlike iOS, Android allows manufacturers and developers to modify the operating system, resulting in a wide variety of hardware options.
+    Open Handset Alliance (OHA): A consortium that drove the early adoption of Android by providing a standardized, open-source platform for smartphones.
+    Marketplace Evolution: The "Android Market," initially launched in 2008, was later renamed the Google Play Store.
