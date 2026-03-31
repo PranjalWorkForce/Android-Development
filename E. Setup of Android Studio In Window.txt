@@ -1,0 +1,62 @@
+Setup of Android Studio in Windows (Step by Step)
+
+1. System Requirements
+   Before installing, make sure your system meets the requirements:
+
+* Windows 10 or later (64-bit)
+* At least 8 GB RAM (16 GB recommended)
+* Minimum 8 GB free disk space
+* Processor with virtualization support
+
+2. Download Android Studio
+
+* Go to the official website of Android Studio
+* Click on “Download Android Studio”
+* Accept the terms and conditions
+* The installer file (.exe) will start downloading
+
+3. Run the Installer
+
+* Open the downloaded .exe file
+* Click “Next” to start installation
+* Select components (Android Studio and Android Virtual Device)
+* Click “Next” and choose installation location
+* Click “Install” and wait for completion
+
+4. Launch Android Studio
+
+* After installation, click “Finish”
+* Android Studio will open automatically
+
+5. Setup Wizard
+
+* Choose “Standard” installation type (recommended)
+* Select UI theme (Light or Dark)
+* The setup wizard will download required SDK components
+
+6. Install Android SDK
+
+* Android Studio will automatically install the Android SDK (Software Development Kit)
+* Wait until all components are downloaded and installed
+
+7. Configure Emulator (Optional)
+
+* Open AVD Manager (Android Virtual Device)
+* Create a new virtual device (e.g., Pixel phone)
+* Select system image and finish setup
+
+8. Create First Project
+
+* Click “New Project”
+* Select template (e.g., Empty Activity)
+* Enter project name and language (Java or Kotlin)
+* Click “Finish”
+
+9. Run the Project
+
+* Connect a real Android device or use emulator
+* Click “Run” button
+* Your app will launch
+
+Summary
+Installing Android Studio involves downloading the installer, running setup, installing SDK components, and creating a project. It provides a complete environment to develop, test, and run Android applications.

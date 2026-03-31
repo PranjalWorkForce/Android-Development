@@ -1,0 +1,73 @@
+Setup of Android Studio in Linux (Step by Step)
+
+1. System Requirements
+   Make sure your system meets these requirements:
+
+* 64-bit Linux distribution
+* At least 8 GB RAM (16 GB recommended)
+* Minimum 8 GB free disk space
+* Required libraries for Android Studio (varies by distro)
+
+2. Download Android Studio
+
+* Go to the official website of Android Studio
+* Click “Download Android Studio for Linux”
+* The file will be downloaded as a .tar.gz archive
+
+3. Extract the File
+
+* Open Terminal
+* Navigate to the download folder
+* Extract the file using:
+  tar -xvf android-studio-*.tar.gz
+
+4. Move to Installation Directory (Optional but Recommended)
+
+* Move the extracted folder to /opt directory:
+  sudo mv android-studio /opt/
+
+5. Run Android Studio
+
+* Go to the bin directory:
+  cd /opt/android-studio/bin
+* Run the setup script:
+  ./studio.sh
+
+6. Setup Wizard
+
+* Android Studio will launch
+* Choose “Standard” installation (recommended)
+* Select UI theme (Light or Dark)
+* Required SDK components will be downloaded automatically
+
+7. Install Android SDK
+
+* Wait for the SDK and tools to finish downloading
+* Accept licenses if prompted
+
+8. Create Desktop Shortcut (Optional)
+
+* You may be asked to create a desktop entry
+* Choose “Yes” for easier future access
+
+9. Configure Emulator (Optional)
+
+* Open AVD Manager
+* Create a virtual device (e.g., Pixel)
+* Download and select a system image
+
+10. Create First Project
+
+* Click “New Project”
+* Choose template (e.g., Empty Activity)
+* Enter project name and language (Java or Kotlin)
+* Click “Finish”
+
+11. Run the Project
+
+* Use emulator or connect a real Android device
+* Click “Run”
+* Your app will start
+
+Summary
+In Linux, Android Studio is installed by downloading the .tar.gz file, extracting it, running the setup script, and completing the wizard. It provides a complete environment for Android app development.

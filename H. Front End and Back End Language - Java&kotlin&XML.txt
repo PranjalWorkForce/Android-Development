@@ -1,0 +1,27 @@
+## Language?
+A way of communication.
+A programming language is a formal language comprising a set of instructions that provide various kind of output.
+Most programming language consists of instruction for computers.
+
+## Static Apps
+Static applications are not reliant on internet connection to an online server or database.
+Apps built in this way are downloaded once, usually periodically updated.
+Are able to function offline only with the device on which they are installed.
+
+##  Dynamic Apps
+Dynamic applications are reliant on internet connection to an online server or database.
+When connected, these apps retrieve data updates from a main server.
+So that any iterative changes to development, design functionality are rolled out across all device simultaneously.
+
+## Front End Language.
+Its all about what a user able to see.
+It's may be buttons, images, layout, input field etc.
+To design these components in android we need XML and Android programming(Java/Kotlin)
+
+## Back End Language
+Backend of anythings is not visible to general user or administrator.
+It can be a piece of code or a program running on the server machine to serve the user need.
+Database is also a part of backend i.e, SQLite.
+
+
+

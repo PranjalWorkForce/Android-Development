@@ -1,0 +1,59 @@
+Setup of Android Studio in Mac (Step by Step)
+
+1. System Requirements
+   Make sure your Mac meets the requirements:
+
+* macOS 10.14 (Mojave) or later
+* At least 8 GB RAM (16 GB recommended)
+* Minimum 8 GB free disk space
+
+2. Download Android Studio
+
+* Go to the official website of Android Studio
+* Click on “Download Android Studio for Mac”
+* Accept the terms and the .dmg file will download
+
+3. Install Android Studio
+
+* Open the downloaded .dmg file
+* Drag Android Studio into the Applications folder
+* Wait for the copy process to complete
+
+4. Launch Android Studio
+
+* Open Applications folder
+* Double-click Android Studio
+* If a security warning appears, click “Open”
+
+5. Setup Wizard
+
+* Choose “Standard” installation (recommended)
+* Select UI theme (Light or Dark)
+* Continue and let it download required components
+
+6. Install Android SDK
+
+* Android Studio will automatically download and install the Android SDK
+* Wait until installation is complete
+
+7. Configure Emulator (Optional)
+
+* Open AVD Manager (Android Virtual Device)
+* Create a virtual device (e.g., Pixel)
+* Download and select a system image
+
+8. Create First Project
+
+* Click “New Project”
+* Choose template (e.g., Empty Activity)
+* Enter project name and select language (Java or Kotlin)
+* Click “Finish”
+
+9. Run the Project
+
+* Use emulator or connect a real Android device
+* Click “Run” button
+* Your app will start
+
+Summary
+On Mac, Android Studio is installed by downloading the .dmg file, dragging it to Applications, completing the setup wizard, and creating a project. It provides all tools needed for Android app development in one place.
