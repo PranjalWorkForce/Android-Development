@@ -1,6 +1,12 @@
 # Android-Development
 I am going to start Android Development journey from the beginning: Intro to Android Development, TO deploying the app on playstore.  If you want to get engage with me than welcome.  I will be glad to share my notes.
 
+Notes: There is Full Java Projects in another repository as : https://www.github.com/PranjalWorkForce/java
+
+● Here i have been posting daily problem solving skills in though Java. 
+● Starting from HelloWorld To dont know I i could by stop. 
+
+
 Here the details about the toppic I am going to discuss in the notes: 
 
 **Introduction & Environment Setup**
